@@ -5,3 +5,10 @@
 3. Set up `.env` with database credentials.
 4. import database
 5. database filename: jwtapi.sql
+
+
+Login Details
+---------------------------------------------------
+username: admin@gmail.com
+password: admin@123
+role : Admin
