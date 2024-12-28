@@ -65,7 +65,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `first_name`, `last_name`, `email`, `password`, `profile_img`, `role`, `status`, `created_at`, `update_at`, `last_login`) VALUES
-(19, 'Admin', 'kumar', 'admin@gmail.com', '$2y$10$QeJr4qJsdq39o0KoKGZFGeHS.dIMy1hr/JsMD4.3MOg8/pa4lPJ4S', NULL, 1, 1, '2024-12-20 13:10:22', '2024-12-20 13:16:53', '2024-12-20 07:46:53'),
+(19, 'Admin', 'kumar', 'admin@gmail.com', '$2y$10$QeJr4qJsdq39o0KoKGZFGeHS.dIMy1hr/JsMD4.3MOg8/pa4lPJ4S','user_img_767652129138563.41480200.png', 1, 1, '2024-12-20 13:10:22', '2024-12-20 13:16:53', '2024-12-20 07:46:53'),
 (20, 'sonu', 'Gupta', 'sonukumarg337@gmail.com', '$2y$10$9SkcMrHtg162CrA63icOGuz7tNjcawji0C.p52M5Qmza70APGf/im', 'user_img_667651fa9a9b6e7.39362307.png', 2, 1, '2024-12-20 13:11:29', NULL, NULL),
 (21, 'pawan', 'kumar', 'pawan@gmail.com', '$2y$10$/vYdTl3Vg0BJIfMaW5JlOOm3GOvameEYNOuPA2IbxsGv5EAajwAnC', 'user_img_267652034a0b3a4.61447155.png', 2, 1, '2024-12-20 13:13:48', NULL, NULL),
 (22, 'vikash', 'kumar', 'vikash@gmail.com', '$2y$10$3FjwTS.6zdbj7uXBW1RjEeoUq2HOki4rWLKygldaFVSp2Tu8f.Z.2', 'user_img_767652129138563.41480200.png', 2, 1, '2024-12-20 13:17:53', '2024-12-20 13:18:27', '2024-12-20 07:48:27');
