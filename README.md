@@ -7,6 +7,8 @@
 5. database filename: jwtapi.sql
 
 
+
+
 Login Details
 ---------------------------------------------------
 username: admin@gmail.com
